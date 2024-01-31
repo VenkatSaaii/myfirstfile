@@ -1,0 +1,5 @@
+Q:Why do we use Git as a versioning tool?
+
+Ans:
+
+Git is most popular tools, which is used amongst the developers. It has the advantage of options to fork and edit the codes which are public. Software development teams prefer Git over other version control systems, like CVS, Mercurial, and Perforce, because Git has the adaptability, speed, and stability required to thrive in fast-paced markets. It's no wonder that 87.2% of developers use Git for version control. If we have to revisit previous work of ours we can select that particular versions,it stores all versions of commit,hence we can selsect that versions. it can be very helpful in day-to-day works of coders.
